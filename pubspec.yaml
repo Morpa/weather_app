@@ -20,6 +20,7 @@ dependencies:
 
 dev_dependencies:
   build_runner: ^2.4.6
+  change_app_package_name: ^1.1.0
   flutter_gen: ^5.3.2
   flutter_gen_runner: ^5.3.2
   flutter_lints: ^3.0.1
@@ -35,7 +36,7 @@ flutter_native_splash:
   color: "#000000"
   android_12:
     image: "assets/icons/icon.png"
-    color: "#000000"    
+    color: "#000000"
   web: false
 
 flutter:
